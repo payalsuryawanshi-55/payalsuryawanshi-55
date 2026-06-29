@@ -4,7 +4,7 @@
 
 🎯 **Web Developer** | MERN Stack Enthusiast | Problem Solver  
 📍 India  
-📧 payalsuryawanshi-55@example.com
+📧payalsuryawanshi820@gmail.com
 
 🔗 [Portfolio](https://your-portfolio.com) • [LinkedIn](https://linkedin.com/in/payalsuryawanshi-55) • [Twitter](https://twitter.com/payalsuryawanshi) • [GitHub](https://github.com/payalsuryawanshi-55)
 
