@@ -1,73 +1,836 @@
-<h1 align="center">✨ Payal Suryawanshi ✨</h1>
-<h3 align="center">🚀 MERN Stack Developer | DSA Enthusiast | Problem Solver</h3>
+<!-- ========================================================= -->
+<!--                     PAYAL SURYAWANSHI                      -->
+<!-- ========================================================= -->
+
+<h1 align="center">
+  Hi 👋 I'm <span style="color:#8B5CF6;">Payal Suryawanshi</span>
+</h1>
+
+<h3 align="center">
+Full Stack MERN Developer • React • TypeScript • Node.js
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=900&lines=🌟+Web+Developer+%7C+MERN+Stack+Enthusiast;💻+Building+Real-World+Projects+with+Passion;🎨+Creating+Interactive+%26+Responsive+Websites;🚀+React+%7C+Node.js+%7C+Express+%7C+MongoDB;💡+DSA+Problem+Solver+%7C+50+Days+Badge+Winner;🔥+Turning+Ideas+into+Reality+Through+Code" />
+Building scalable, responsive and user-centric web applications with modern technologies.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+  <a href="https://github.com/payalsuryawanshi-55">
+    <img src="https://img.shields.io/github/followers/payalsuryawanshi-55?style=for-the-badge&logo=github&color=7C3AED"/>
+  </a>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
+  <a href="https://www.linkedin.com/in/payal-mern">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="mailto:payalsuryawanshi820@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+React+Applications;TypeScript+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Performance+%7C+Problem+Solving;Open+to+Software+Engineering+Opportunities" />
+
 </p>
 
-🎯 **Web Developer** | MERN Stack Enthusiast | DSA Problem Solver  
-📍 **India**  
-📧 **payalsuryawanshi820@gmail.com**  
-🏆 **50 Days Badge Winner** | **92 Active Days** | **Max Streak: 51 Days**
+---
 
-🔗 **[Portfolio](https://your-portfolio.com)** • **[LinkedIn](https://linkedin.com/in/payalsuryawanshi-55)** • **[Twitter](https://twitter.com/payalsuryawanshi)** • **[GitHub](https://github.com/payalsuryawanshi-55)**
+<p align="center">
 
-```python
-# My Developer Philosophy
-class Developer:
-    def __init__(self):
-        self.name = "Payal Suryawanshi"
-        self.role = "MERN Stack Developer"
-        self.passion = "Building interactive web experiences"
-        self.mission = "Turning complex problems into elegant solutions"
-        self.motto = "Code with purpose, design with heart"
-        
-    def daily_routine(self):
-        return ["Write Clean Code", "Learn New Tech", "Build Projects", "Solve DSA Problems"]
-🛠️ Tech Arsenal
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚔️+MY+TECH+ARSENAL+⚔️" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d4d8b54-9485-4d86-9b6d-7e4f08c2d42b.gif" width="650"/>
 
-🎨 Frontend Mastery
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/React_Admin-000000?style=for-the-badge&logo=react&logoColor=61DAFB" /> </p>
+</p>
 
-⚡ Backend Power
-<p align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" /> </p>
+# 👩‍💻 About Me
 
-🛠️ Development Tools
-<p align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
+I'm a **Full Stack MERN Developer** passionate about building scalable web applications with clean architecture and modern UI.
 
-💼 Professional Journey
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=800&duration=1000&pause=300&color=FF6B6B&center=true&vCenter=true&width=700&lines=💼+PROFESSIONAL+JOURNEY+💼;🚀+2+INTERNSHIPS+COMPLETED+🚀" /> </p><div align="center"> <table> <tr> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🏢 Webseeders Technology Pvt. Ltd.</h3> <h4>🔥 Frontend Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>🚀 Developed <b>FitGym Website</b> using React.js & Tailwind CSS</li> <li>🎨 Implemented modern UI/UX with smooth animations</li> <li>⚡ Optimized performance & cross-browser compatibility</li> <li>🤝 Collaborative team environment</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🌐 TEN Entrepreneur Network</h3> <h4>💻 Full Stack Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>🌐 Worked on full-stack projects using MERN stack</li> <li>⚡ Developed REST APIs with frontend integration</li> <li>🔐 Implemented authentication & authorization systems</li> <li>🐛 Bug fixing & feature development</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> </tr> </table> </div>
+I enjoy transforming complex business requirements into intuitive user experiences while writing maintainable and reusable code.
 
-🌟 Featured Projects
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+FEATURED+PROJECTS+🌟" /> </p><div align="center"> <table> <tr> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>💪 FitGym Website</h3> <p><b>Tech:</b> React.js, Tailwind CSS</p> <p>Modern gym/fitness website with responsive design, smooth animations, and interactive UI. Built as a team project at Webseeders Technology.</p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> </td> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>🧮 PureCalc Calculator</h3> <p><b>Tech:</b> HTML, CSS, JavaScript</p> <p>Clean and modern calculator with minimalist UI, smooth animations, and user-friendly functionality.</p> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </td> </tr> <tr> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>⛳ Sidcup Family Golf</h3> <p><b>Tech:</b> HTML, CSS, JavaScript</p> <p>Responsive website for Sidcup Family Golf with golf course information, services, pricing, and booking options.</p> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> </td> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>🎮 Tic-Tac-Toe Battle</h3> <p><b>Tech:</b> HTML, CSS, JavaScript</p> <p>Engaging Tic-Tac-Toe game with AI opponent, seamless gameplay, and fun user experience.</p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> </td> </tr> </table> </div>
+Currently focusing on improving my expertise in
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=C084FC&center=true&vCenter=true&width=600&lines=📊+GITHUB+ANALYTICS+📊" /> </p><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111A&title_color=FF6B6B&icon_color=C084FC&text_color=E2E8F0&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true&background=0D111A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=E2E8F0" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D111A&title_color=FF6B6B&text_color=E2E8F0" width="45%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D111A&color=FF6B6B&line=C084FC&point=FF6B6B&area=true&hide_border=true" width="45%" /> </div>
+- TypeScript
+- Next.js
+- React Architecture
+- Backend Development
+- System Design
+- Data Structures & Algorithms
 
-🏆 Coding Streak & Achievements
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+CODING+STREAK+%26+ACHIEVEMENTS+🏆" /> </p><div align="center"> <table> <tr> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/medal.png"/> <h3>🏅 50 Days Badge</h3> <p>Completed 50 Days of Coding Challenge</p> </td> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/calendar.png"/> <h3>📅 92 Active Days</h3> <p>Consistent coding practice</p> </td> </tr> <tr> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/fire.png"/> <h3>🔥 51 Days Max Streak</h3> <p>Longest continuous coding streak</p> </td> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/activity.png"/> <h3>📊 240+ Submissions</h3> <p>in the past one year</p> </td> </tr> </table> </div>
+---
 
-🎯 Current Focus
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎯+Building+Real-World+MERN+Projects;📚+Exploring+Next.js+%26+TypeScript;🎨+Mastering+Advanced+Animations;💡+Solving+DSA+Problems;🤝+Open+for+Collaborations" /> </p>
+## 🚀 Professional Summary
 
-🤝 Let's Connect
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=🔗+LET'S+CONNECT+🔗" /> </p><p align="center"> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:payalsuryawanshi820@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/payalsuryawanshi-55"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/payalsuryawanshi"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/payalsuryawanshi-55"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/payalsuryawanshi-55?label=Followers&style=social" /> <img src="https://img.shields.io/github/stars/payalsuryawanshi-55?label=Stars&style=social" /> </div>
+```ts
+const payal = {
+    role: "Full Stack MERN Developer",
 
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting!+✨;🌟+Let's+build+something+amazing!+🌟;💻+Keep+coding+with+passion!+💻" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p> ```
+    frontend: [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "Chakra UI"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs",
+        "JWT Authentication"
+    ],
+
+    currentlyLearning: [
+        "Next.js",
+        "System Design",
+        "Advanced React Patterns"
+    ],
+
+    interests: [
+        "Frontend Engineering",
+        "Backend Development",
+        "Performance Optimization",
+        "Open Source"
+    ]
+}
+```
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
+
+</p>
+
+---
+
+## 🧩 Technologies
+
+### Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Tailwind CSS
+- Chakra UI
+- Responsive Design
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- JWT Authentication
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Vite
+
+### Currently Exploring
+
+- Next.js
+- System Design
+- React Performance
+- Scalable Architecture
+
+---
+
+# 📈 Current Focus
+
+✔ Building production-ready MERN applications
+
+✔ Writing clean and reusable code
+
+✔ Improving DSA problem solving
+
+✔ Learning scalable backend architecture
+
+✔ Preparing for Software Engineering roles
+
+---
+
+> *"Great software is built through consistency, curiosity, and continuous learning."*
+
+<!-- ========================================================= -->
+<!--                EXPERIENCE & FEATURED PROJECTS             -->
+<!-- ======================= PART 2 =========================== -->
+
+# 💼 Professional Experience
+
+## 🚀 Frontend Developer Intern
+### Webseeders Technology Pvt. Ltd.
+📍 Remote • **Jan 2026 – Apr 2026**
+
+Worked on modern React applications with a strong focus on performance, responsive UI, and reusable components.
+
+### Key Contributions
+
+- Developed responsive web interfaces using **React.js** and **Tailwind CSS**
+- Built reusable UI components for faster development
+- Improved application performance and loading speed
+- Collaborated with designers and developers using Git workflow
+- Fixed UI bugs and enhanced user experience across devices
+
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `JavaScript` • `Git` • `GitHub`
+
+---
+
+## 💻 Full Stack Developer Intern
+### TEN Entrepreneur Network
+📍 Remote • **Jan 2026 – Apr 2026**
+
+Worked on full-stack applications using the MERN stack and contributed to both frontend and backend development.
+
+### Key Contributions
+
+- Developed RESTful APIs using **Node.js** and **Express.js**
+- Integrated frontend with backend services
+- Implemented authentication and authorization
+- Worked with MongoDB database
+- Participated in debugging and feature development
+
+**Tech Stack**
+
+`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+
+---
+
+# 🚀 Featured Projects
+
+---
+
+## 🏋️ FitGym
+
+A modern fitness website focused on responsive design, smooth UI interactions, and clean component architecture.
+
+### Highlights
+
+- Fully Responsive
+- React Component Architecture
+- Optimized Performance
+- Modern Landing Pages
+- Interactive UI
+
+**Tech**
+
+`React`
+`Tailwind CSS`
+`JavaScript`
+
+🔗 **Live Demo:** *Add Link*
+
+🔗 **GitHub:** *Add Repository*
+
+---
+
+## 🤖 Gemini Clone
+
+An AI-powered application inspired by Gemini with a clean interface and dynamic responses.
+
+### Highlights
+
+- Modern Chat Interface
+- Context API
+- API Integration
+- Responsive Design
+- Loading States
+
+**Tech**
+
+`React`
+`JavaScript`
+`Context API`
+`CSS`
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+## 🔐 Role Permission Management System
+
+A professional admin dashboard implementing role-based access control with modern UI.
+
+### Features
+
+- User Management
+- Role Management
+- Permission Assignment
+- Pagination
+- Search
+- Responsive Dashboard
+
+**Tech**
+
+`React`
+
+`TypeScript`
+
+`Chakra UI v3`
+
+`REST API`
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+## 🌐 Personal Portfolio
+
+A responsive developer portfolio showcasing projects, skills, and experience.
+
+### Features
+
+- Responsive Layout
+- Smooth Animations
+- Project Showcase
+- Contact Section
+- Dark Theme
+
+**Tech**
+
+`React`
+
+`Tailwind CSS`
+
+`JavaScript`
+
+🔗 Live Demo
+
+🔗 GitHub
+
+---
+
+## ⛳ Sidcup Family Golf
+
+A modern recreation of the Sidcup Family Golf website with animations and interactive sections.
+
+### Features
+
+- Responsive Layout
+- Scroll Animations
+- Interactive Components
+- Custom Styling
+
+**Tech**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 GitHub
+
+---
+
+## 🧮 PureCalc
+
+A clean calculator application focusing on user experience and responsive design.
+
+### Features
+
+- Basic Operations
+- Responsive UI
+- Keyboard Friendly
+- Lightweight Design
+
+**Tech**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 GitHub
+
+---
+
+## 🎮 Tic Tac Toe
+
+Classic Tic Tac Toe game with interactive gameplay.
+
+### Features
+
+- Two Player Game
+- Winner Detection
+- Reset Game
+- Responsive Layout
+
+**Tech**
+
+`HTML`
+
+`CSS`
+
+`JavaScript`
+
+🔗 GitHub
+
+---
+
+# 📌 Engineering Principles
+
+✔ Clean Code
+
+✔ Reusable Components
+
+✔ Scalable Architecture
+
+✔ Performance Optimization
+
+✔ Accessibility
+
+✔ Responsive Design
+
+✔ Git Workflow
+
+✔ REST API Integration
+
+✔ Problem Solving
+
+✔ Continuous Learning
+
+---
+
+# 🎯 Currently Building
+
+- Production-ready MERN Applications
+
+- Advanced React Projects
+
+- TypeScript Applications
+
+- Full Stack Dashboards
+
+- Authentication Systems
+
+- REST APIs
+
+- Open Source Contributions
+<!-- ========================================================= -->
+<!--              GITHUB DASHBOARD & ACHIEVEMENTS              -->
+<!-- ======================== PART 3 ========================== -->
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=payalsuryawanshi-55&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/payalsuryawanshi-55/payalsuryawanshi-55/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+> **Note:** Enable GitHub Actions later to generate this automatically.
+
+---
+
+# 👩‍💻 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-green?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏅 Highlights
+
+### 💼 Experience
+
+- ✅ Frontend Developer Intern — Webseeders Technology Pvt. Ltd.
+- ✅ Full Stack Developer Intern — TEN Entrepreneur Network
+
+---
+
+### 🚀 Development
+
+- Built multiple full-stack MERN applications
+- Developed responsive React interfaces
+- Designed reusable UI components
+- Implemented RESTful APIs
+- Integrated authentication & authorization
+- Worked with MongoDB databases
+
+---
+
+### 💻 Problem Solving
+
+- Regular LeetCode practice
+- Strong understanding of JavaScript
+- Improving Data Structures & Algorithms
+- Focused on writing optimized solutions
+
+---
+
+### 🌱 Currently Learning
+
+- Next.js
+- TypeScript
+- Advanced React
+- System Design
+- Backend Scalability
+
+---
+
+# 📌 Tech Expertise
+
+| Area | Technologies |
+|------|--------------|
+| Frontend | React, TypeScript, JavaScript, Tailwind CSS, Chakra UI |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB |
+| Authentication | JWT |
+| Tools | Git, GitHub, VS Code, Postman |
+| Architecture | Component-based Development |
+
+---
+
+# 📚 Development Philosophy
+
+```javascript
+const developer = {
+    writeCode() {
+        return "Readable > Clever";
+    },
+
+    buildProducts() {
+        return "User Experience First";
+    },
+
+    improve() {
+        return "Learn → Build → Refactor → Repeat";
+    },
+
+    goal() {
+        return "Build software that creates real impact.";
+    }
+};
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master TypeScript
+- ✅ Learn Next.js deeply
+- ✅ Build production-grade MERN applications
+- ✅ Solve 500+ DSA problems
+- ✅ Contribute to Open Source
+- ✅ Crack Software Engineering interviews
+
+---
+
+# 📈 Current Focus
+
+```text
+███████████████████████░░ React
+
+█████████████████████░░░ TypeScript
+
+████████████████████░░░░ Node.js
+
+███████████████████░░░░░ MongoDB
+
+██████████████████░░░░░░ DSA
+
+█████████████████░░░░░░░ System Design
+```
+
+---
+
+# 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
+
+
+<!-- ========================================================= -->
+<!--               CONNECT • FOOTER • FINAL SECTION            -->
+<!-- ======================== PART 4 ========================== -->
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://github.com/payalsuryawanshi-55">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/payal-mern">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:payalsuryawanshi820@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_LINK">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Open To
+
+✔ Full Stack Developer Roles
+
+✔ Frontend Developer Roles
+
+✔ React Developer Opportunities
+
+✔ Software Engineering Internships
+
+✔ Open Source Collaboration
+
+✔ Freelance Web Development
+
+---
+
+# 📬 Contact
+
+📧 **Email**
+
+```text
+payalsuryawanshi820@gmail.com
+```
+
+📍 **Location**
+
+```text
+Bhopal, Madhya Pradesh, India
+```
+
+💻 **Current Role**
+
+```text
+Full Stack MERN Developer
+```
+
+---
+
+# 🌱 Beyond Coding
+
+Outside of development, I enjoy continuously learning new technologies,
+exploring modern software architecture, improving problem-solving skills,
+and building projects that solve real-world problems.
+
+I believe that consistency, curiosity, and clean engineering practices are
+the foundation of becoming a better software developer.
+
+---
+
+# ❤️ Development Principles
+
+```text
+✔ Write clean code
+
+✔ Build reusable components
+
+✔ Optimize performance
+
+✔ Think before coding
+
+✔ Never stop learning
+
+✔ Focus on user experience
+
+✔ Keep improving every day
+```
+
+---
+
+# 📈 2026 Roadmap
+
+```text
+✅ Advanced React
+
+✅ TypeScript
+
+✅ Next.js
+
+✅ System Design
+
+✅ Open Source
+
+⬜ AWS
+
+⬜ Docker
+
+⬜ Kubernetes
+
+⬜ CI/CD
+
+⬜ Microservices
+```
+
+---
+
+# ☕ Fun Fact
+
+```javascript
+while(alive){
+
+    learn();
+
+    build();
+
+    debug();
+
+    repeat();
+
+}
+```
+
+---
+
+# 📊 Profile Overview
+
+```text
+👩 Name          : Payal Suryawanshi
+
+💼 Role          : Full Stack MERN Developer
+
+⚛️ Frontend      : React • TypeScript
+
+⚙️ Backend       : Node.js • Express
+
+🗄 Database      : MongoDB
+
+🧠 Interests     : Web Engineering • DSA • System Design
+
+🚀 Goal          : Software Engineer
+```
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+
+</p>
+
+---
+
+# ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+It motivates me to continue building and sharing useful projects.
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
+
+</p>
+
+<h2 align="center">
+
+Thanks for visiting my profile ❤️
+
+</h2>
+
+<p align="center">
+
+<em>
+
+"Code is more than syntax—it's about solving problems, creating impact,
+and continuously growing as an engineer."
+
+</em>
+
+</p>
+
+<p align="center">
+
+⭐ Happy Coding ⭐
+
+</p>
+
+
+
