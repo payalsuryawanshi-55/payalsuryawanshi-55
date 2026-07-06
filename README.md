@@ -1,33 +1,26 @@
-<h1 align="center">✨ Payal Suryawanshi ✨</h1>
-<h3 align="center">Full Stack Developer crafting digital experiences with code & creativity</h3>
+<h1 align="center">✨ Hi, I'm Payal Suryawanshi ✨</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=780&lines=Building+meaningful+web+applications;Turning+ideas+into+beautiful+reality;MERN+Stack+%7C+Clean+Code+%7C+Thoughtful+Design;DSA+Enthusiast+%7C+50+Days+Badge+Winner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=780&lines=Building+Scalable+Modern+Web+Applications;Crafting+Clean+%26+Pixel-Perfect+UI%2FUX;MERN+Stack+%7C+DSA+%7C+Performance+Optimization;Passionate+about+Code+%26+Creative+Designs" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="52%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%" />
-</p>
-
 ---
 
 ### 👋 About Me
 
-I'm a passionate **Full Stack Developer** who loves building things that matter. With a strong foundation in the MERN stack, I focus on creating **clean, responsive, and delightful** user experiences.
+A passionate **Full Stack Developer** who loves turning ideas into elegant, functional web experiences using the MERN stack.
 
-- **Based in India** | Open to new opportunities
-- 🏆 50 Days Badge | 51 Day Streak | 240+ Problem Submissions
-- Currently exploring **advanced animations**, **TypeScript**, and **system design**
-
-**Connect with me** → [Portfolio](https://github.com/payalsuryawanshi-55) • [LinkedIn](https://linkedin.com/in/payalsuryawanshi-55) • [Twitter](https://twitter.com/payalsuryawanshi)
+- **📍 India** | **📧** [payalsuryawanshi820@gmail.com](mailto:payalsuryawanshi820@gmail.com)
+- 🏆 50 Days Badge Winner | Max Streak: 51 Days | 240+ Submissions
 
 ---
 
-### 🛠️ My Toolkit
+### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=6" />
@@ -35,7 +28,7 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
 
 ---
 
-### 💼 My Journey So Far
+### 💼 Professional Journey
 
 <div align="center">
   <table>
@@ -43,7 +36,7 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
       <td width="50%" style="padding: 25px; border-radius: 22px; background: linear-gradient(135deg, #2a1a4d, #1e1438);">
         <h3>🏢 Webseeders Technology</h3>
         <p><strong>Frontend Developer Intern</strong><br>Jan 2026 – Apr 2026</p>
-        <p>Built <strong>FitGym</strong> — a modern fitness platform with React & Tailwind.</p>
+        <p>Built <strong>FitGym</strong> — modern fitness platform with React & Tailwind.</p>
       </td>
       <td width="50%" style="padding: 25px; border-radius: 22px; background: linear-gradient(135deg, #2a1a4d, #1e1438);">
         <h3>🌐 TEN Entrepreneur Network</h3>
@@ -56,7 +49,7 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
 
 ---
 
-### 🌟 Projects That Define Me
+### 🌟 Featured Projects
 
 <div align="center">
   <table>
@@ -64,7 +57,7 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
       <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
         <h3>💪 FitGym</h3>
         <p><strong>React • Tailwind CSS</strong></p>
-        <p>Modern fitness website with smooth animations and responsive design.</p>
+        <p>Modern fitness platform with smooth animations and responsive design.</p>
         <a href="https://github.com/payalsuryawanshi-55/fitgym-website">Explore →</a>
       </td>
       <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
@@ -93,43 +86,49 @@ I'm a passionate **Full Stack Developer** who loves building things that matter.
 
 ---
 
-### 📈 GitHub Presence
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC&text_color=E2E8F0" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC&text_color=E2E8F0" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C084FC&point=FF6B6B&area=true&hide_border=true" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C084FC&point=FF6B6B&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🏆 Milestones
+### 🏆 Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🏅 50 Days Badge</td>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🔥 51 Day Streak</td>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">📊 240+ Submissions</td>
+      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🏅 <strong>50 Days Badge</strong></td>
+      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🔥 <strong>51 Day Streak</strong></td>
+      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">📊 <strong>240+ Submissions</strong></td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 💬 Let's Create Something Amazing
+### 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/payalsuryawanshi-55"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://linkedin.com/in/payalsuryawanshi-55"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/payalsuryawanshi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://leetcode.com/payalsuryawanshi"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/payalsuryawanshi-55"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=FF6B6B&style=flat-square" />
 </p>
 
 <p align="center">
   <i>"Code with purpose, design with heart."</i>
 </p>
 
-<p align="center"><strong>⚡ Open for collaborations & exciting opportunities ⚡</strong></p>
+<p align="center"><strong>⚡ Open for SDE Roles, Internships & Collaborations ⚡</strong></p>
