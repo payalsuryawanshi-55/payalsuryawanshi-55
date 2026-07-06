@@ -1,836 +1,240 @@
-<!-- ========================================================= -->
-<!--                     PAYAL SURYAWANSHI                      -->
-<!-- ========================================================= -->
+<div align="center">
 
-<h1 align="center">
-  Hi 👋 I'm <span style="color:#8B5CF6;">Payal Suryawanshi</span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=PAYAL%20SURYAWANSHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20Frontend-Focused%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
-<h3 align="center">
-Full Stack MERN Developer • React • TypeScript • Node.js
-</h3>
+<br/>
 
-<p align="center">
-Building scalable, responsive and user-centric web applications with modern technologies.
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+applications;React.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express.js;Solving+DSA+problems%2C+one+day+at+a+time;4th+Year+CSE+Student+%40+Sage+University+Bhopal)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://github.com/payalsuryawanshi-55">
-    <img src="https://img.shields.io/github/followers/payalsuryawanshi-55?style=for-the-badge&logo=github&color=7C3AED"/>
-  </a>
+<br/>
 
-  <a href="https://www.linkedin.com/in/payal-mern">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/payal-suryawanshi-a98776302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://leetcode.com/u/Payal-suryawanshi/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/payalsuryawanshi-55"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/></a>
 
-  <a href="mailto:payalsuryawanshi820@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
 
----
+<br/>
 
-<p align="center">
+## `01` &nbsp;About
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+MERN+Developer;Building+Scalable+React+Applications;TypeScript+%7C+Node.js+%7C+MongoDB;Clean+Code+%7C+Performance+%7C+Problem+Solving;Open+to+Software+Engineering+Opportunities" />
+I build responsive, user-friendly web applications with an emphasis on clean UI and scalable architecture. My work spans the MERN stack — from crafting reusable React components to designing REST APIs that connect smoothly with the frontend. Alongside development, I spend consistent time on Data Structures & Algorithms, treating every problem as practice for the engineering role I'm working toward.
 
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**Currently**
+Frontend-focused Full Stack Developer
+4th Year B.Tech CSE · Sage University, Bhopal
+Based in India
 
-<p align="center">
+</td>
+<td width="50%" valign="top">
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d4d8b54-9485-4d86-9b6d-7e4f08c2d42b.gif" width="650"/>
+**Working toward**
+An SDE role at a product-based company
+Deeper System Design fundamentals
+Interview-ready DSA proficiency
 
-</p>
+</td>
+</tr>
+</table>
 
-# 👩‍💻 About Me
+<br/>
 
-I'm a **Full Stack MERN Developer** passionate about building scalable web applications with clean architecture and modern UI.
+## `02` &nbsp;Stack
 
-I enjoy transforming complex business requirements into intuitive user experiences while writing maintainable and reusable code.
+<div align="center">
 
-Currently focusing on improving my expertise in
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode" />
 
-- TypeScript
-- Next.js
-- React Architecture
-- Backend Development
-- System Design
-- Data Structures & Algorithms
+</div>
 
----
+<details>
+<summary><b>Breakdown by category</b></summary>
+<br/>
 
-## 🚀 Professional Summary
+| Category | Technologies |
+|---|---|
+| **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
+| **Frontend** | React.js, Tailwind CSS, Chakra UI v3 |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Tooling** | Git, GitHub, VS Code, Postman |
 
-```ts
-const payal = {
-    role: "Full Stack MERN Developer",
+</details>
 
-    frontend: [
-        "React",
-        "TypeScript",
-        "JavaScript",
-        "Tailwind CSS",
-        "Chakra UI"
-    ],
+<br/>
 
-    backend: [
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "REST APIs",
-        "JWT Authentication"
-    ],
+**On my radar right now:** Advanced React patterns · System Design fundamentals · Data Structures & Algorithms · Backend architecture · End-to-end Full Stack delivery
 
-    currentlyLearning: [
-        "Next.js",
-        "System Design",
-        "Advanced React Patterns"
-    ],
+<br/>
 
-    interests: [
-        "Frontend Engineering",
-        "Backend Development",
-        "Performance Optimization",
-        "Open Source"
-    ]
-}
-```
+## `03` &nbsp;Experience
 
----
+<table>
+<tr>
+<td width="100%">
 
-# ⚡ Tech Stack
+**Frontend Developer Intern** — Webseeders Technology Pvt. Ltd.
 
-<p align="center">
+Contributed to **FitGym**, a live team project, building responsive interfaces in React.js and Tailwind CSS. Worked within a shared Git/GitHub workflow, with a focus on reusable components, performance, and cross-device consistency.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,firebase,git,github,vscode,postman" />
+`React.js` `Tailwind CSS` `Git` `GitHub`
 
-</p>
+</td>
+</tr>
+<tr>
+<td width="100%">
 
----
+**Full Stack Developer Intern** — TEN Entrepreneur Network
 
-## 🧩 Technologies
+Built two independent MERN applications end-to-end: a **BookShelf Management System** and a **Snake & Ladder Game**. Implemented CRUD operations, REST APIs, frontend-backend integration, basic authentication, and responsive layouts.
 
-### Frontend
+`MongoDB` `Express.js` `React.js` `Node.js`
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- TypeScript
-- React.js
-- Tailwind CSS
-- Chakra UI
-- Responsive Design
+</td>
+</tr>
+</table>
 
-### Backend
+<br/>
 
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-- JWT Authentication
+## `04` &nbsp;Projects
 
-### Tools
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- Vite
+**FitGym** · *Team Project*
+Fitness/gym platform with a responsive, component-driven frontend built during my internship at Webseeders.
+`React.js` `Tailwind CSS`
+[Repository](#) · [Live Demo](#)
 
-### Currently Exploring
+</td>
+<td width="50%" valign="top">
 
-- Next.js
-- System Design
-- React Performance
-- Scalable Architecture
+**BookShelf Management System**
+Full MERN application for cataloguing and managing books with complete CRUD functionality.
+`MongoDB` `Express.js` `React.js` `Node.js`
+[Repository](#) · [Live Demo](#)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-# 📈 Current Focus
+**Snake & Ladder Game**
+Interactive browser-based recreation of the classic game with game-state logic handled in JavaScript.
+`JavaScript` `HTML` `CSS`
+[Repository](#) · [Live Demo](#)
 
-✔ Building production-ready MERN applications
+</td>
+<td width="50%" valign="top">
 
-✔ Writing clean and reusable code
+**Sidcup Family Golf Website**
+Informational site covering course details, services, pricing, and a booking flow.
+`HTML` `CSS` `JavaScript`
+[Repository](#) · [Live Demo](#)
 
-✔ Improving DSA problem solving
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✔ Learning scalable backend architecture
+**Modern Calculator**
+Minimal calculator with a clean interface and precise operation handling.
+`JavaScript` `HTML` `CSS`
+[Repository](#) · [Live Demo](#)
 
-✔ Preparing for Software Engineering roles
+</td>
+<td width="50%" valign="top">
 
----
+**Tic Tac Toe**
+Classic two-player game with win-detection logic and a responsive board layout.
+`JavaScript` `HTML` `CSS`
+[Repository](#) · [Live Demo](#)
 
-> *"Great software is built through consistency, curiosity, and continuous learning."*
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- ========================================================= -->
-<!--                EXPERIENCE & FEATURED PROJECTS             -->
-<!-- ======================= PART 2 =========================== -->
+**Gemini AI Clone**
+Conversational UI inspired by Gemini, built to explore chat-interface patterns and API-driven responses.
+`React.js` `JavaScript` `API Integration`
+[Repository](#) · [Live Demo](#)
 
-# 💼 Professional Experience
+</td>
+<td width="50%" valign="top">
 
-## 🚀 Frontend Developer Intern
-### Webseeders Technology Pvt. Ltd.
-📍 Remote • **Jan 2026 – Apr 2026**
+**Portfolio Website**
+Personal portfolio showcasing projects, skills, and experience with a component-based architecture.
+`React.js` `Tailwind CSS`
+[Repository](#) · [Live Demo](#)
 
-Worked on modern React applications with a strong focus on performance, responsive UI, and reusable components.
+</td>
+</tr>
+</table>
 
-### Key Contributions
+<br/>
 
-- Developed responsive web interfaces using **React.js** and **Tailwind CSS**
-- Built reusable UI components for faster development
-- Improved application performance and loading speed
-- Collaborated with designers and developers using Git workflow
-- Fixed UI bugs and enhanced user experience across devices
+## `05` &nbsp;Problem Solving
 
-**Tech Stack**
+<div align="center">
 
-`React` • `Tailwind CSS` • `JavaScript` • `Git` • `GitHub`
+<img src="https://leetcard.jacoblin.cool/Payal-suryawanshi?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%"/>
 
----
+</div>
 
-## 💻 Full Stack Developer Intern
-### TEN Entrepreneur Network
-📍 Remote • **Jan 2026 – Apr 2026**
+165+ problems solved on LeetCode across arrays, strings, recursion, and data structure fundamentals — an ongoing habit rather than a one-time sprint, built alongside coursework and project work.
 
-Worked on full-stack applications using the MERN stack and contributed to both frontend and backend development.
+<br/>
 
-### Key Contributions
+## `06` &nbsp;GitHub Activity
 
-- Developed RESTful APIs using **Node.js** and **Express.js**
-- Integrated frontend with backend services
-- Implemented authentication and authorization
-- Worked with MongoDB database
-- Participated in debugging and feature development
+<div align="center">
 
-**Tech Stack**
+<img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&hide_border=true&theme=highcontrast&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9" width="48%"/>
 
-`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT`
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="40%"/>
 
----
+<br/>
 
-# 🚀 Featured Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true" width="90%"/>
 
----
+</div>
 
-## 🏋️ FitGym
+<br/>
 
-A modern fitness website focused on responsive design, smooth UI interactions, and clean component architecture.
+## `07` &nbsp;2026 Focus
 
-### Highlights
+- [ ] Land an SDE internship or full-time role at a product-based company
+- [ ] Build one production-grade full stack project with authentication, testing, and deployment
+- [ ] Strengthen System Design fundamentals — scalability, databases, caching
+- [ ] Cross 300+ solved problems on LeetCode with a focus on medium/hard patterns
+- [ ] Contribute to at least one open-source repository
 
-- Fully Responsive
-- React Component Architecture
-- Optimized Performance
-- Modern Landing Pages
-- Interactive UI
+<br/>
 
-**Tech**
+## `08` &nbsp;Let's Connect
 
-`React`
-`Tailwind CSS`
-`JavaScript`
+<div align="center">
 
-🔗 **Live Demo:** *Add Link*
+Open to internship opportunities, full-time SDE roles, and collaborative projects.
 
-🔗 **GitHub:** *Add Repository*
+<a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/payal-suryawanshi-a98776302"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
----
+<br/><br/>
 
-## 🤖 Gemini Clone
+**Let's build something amazing together.**
 
-An AI-powered application inspired by Gemini with a clean interface and dynamic responses.
+<img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=6D28D9&style=flat-square"/>
 
-### Highlights
+</div>
 
-- Modern Chat Interface
-- Context API
-- API Integration
-- Responsive Design
-- Loading States
-
-**Tech**
-
-`React`
-`JavaScript`
-`Context API`
-`CSS`
-
-🔗 Live Demo
-
-🔗 GitHub
-
----
-
-## 🔐 Role Permission Management System
-
-A professional admin dashboard implementing role-based access control with modern UI.
-
-### Features
-
-- User Management
-- Role Management
-- Permission Assignment
-- Pagination
-- Search
-- Responsive Dashboard
-
-**Tech**
-
-`React`
-
-`TypeScript`
-
-`Chakra UI v3`
-
-`REST API`
-
-🔗 Live Demo
-
-🔗 GitHub
-
----
-
-## 🌐 Personal Portfolio
-
-A responsive developer portfolio showcasing projects, skills, and experience.
-
-### Features
-
-- Responsive Layout
-- Smooth Animations
-- Project Showcase
-- Contact Section
-- Dark Theme
-
-**Tech**
-
-`React`
-
-`Tailwind CSS`
-
-`JavaScript`
-
-🔗 Live Demo
-
-🔗 GitHub
-
----
-
-## ⛳ Sidcup Family Golf
-
-A modern recreation of the Sidcup Family Golf website with animations and interactive sections.
-
-### Features
-
-- Responsive Layout
-- Scroll Animations
-- Interactive Components
-- Custom Styling
-
-**Tech**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-🔗 GitHub
-
----
-
-## 🧮 PureCalc
-
-A clean calculator application focusing on user experience and responsive design.
-
-### Features
-
-- Basic Operations
-- Responsive UI
-- Keyboard Friendly
-- Lightweight Design
-
-**Tech**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-🔗 GitHub
-
----
-
-## 🎮 Tic Tac Toe
-
-Classic Tic Tac Toe game with interactive gameplay.
-
-### Features
-
-- Two Player Game
-- Winner Detection
-- Reset Game
-- Responsive Layout
-
-**Tech**
-
-`HTML`
-
-`CSS`
-
-`JavaScript`
-
-🔗 GitHub
-
----
-
-# 📌 Engineering Principles
-
-✔ Clean Code
-
-✔ Reusable Components
-
-✔ Scalable Architecture
-
-✔ Performance Optimization
-
-✔ Accessibility
-
-✔ Responsive Design
-
-✔ Git Workflow
-
-✔ REST API Integration
-
-✔ Problem Solving
-
-✔ Continuous Learning
-
----
-
-# 🎯 Currently Building
-
-- Production-ready MERN Applications
-
-- Advanced React Projects
-
-- TypeScript Applications
-
-- Full Stack Dashboards
-
-- Authentication Systems
-
-- REST APIs
-
-- Open Source Contributions
-<!-- ========================================================= -->
-<!--              GITHUB DASHBOARD & ACHIEVEMENTS              -->
-<!-- ======================== PART 3 ========================== -->
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=payalsuryawanshi-55&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/payalsuryawanshi-55/payalsuryawanshi-55/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
-> **Note:** Enable GitHub Actions later to generate this automatically.
-
----
-
-# 👩‍💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
-
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-green?style=for-the-badge&logo=geeksforgeeks"/>
-
-</a>
-
-<a href="https://www.hackerrank.com/">
-
-<img src="https://img.shields.io/badge/HackerRank-5★-2EC866?style=for-the-badge&logo=hackerrank"/>
-
-</a>
-
-</p>
-
----
-
-# 🏅 Highlights
-
-### 💼 Experience
-
-- ✅ Frontend Developer Intern — Webseeders Technology Pvt. Ltd.
-- ✅ Full Stack Developer Intern — TEN Entrepreneur Network
-
----
-
-### 🚀 Development
-
-- Built multiple full-stack MERN applications
-- Developed responsive React interfaces
-- Designed reusable UI components
-- Implemented RESTful APIs
-- Integrated authentication & authorization
-- Worked with MongoDB databases
-
----
-
-### 💻 Problem Solving
-
-- Regular LeetCode practice
-- Strong understanding of JavaScript
-- Improving Data Structures & Algorithms
-- Focused on writing optimized solutions
-
----
-
-### 🌱 Currently Learning
-
-- Next.js
-- TypeScript
-- Advanced React
-- System Design
-- Backend Scalability
-
----
-
-# 📌 Tech Expertise
-
-| Area | Technologies |
-|------|--------------|
-| Frontend | React, TypeScript, JavaScript, Tailwind CSS, Chakra UI |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB |
-| Authentication | JWT |
-| Tools | Git, GitHub, VS Code, Postman |
-| Architecture | Component-based Development |
-
----
-
-# 📚 Development Philosophy
-
-```javascript
-const developer = {
-    writeCode() {
-        return "Readable > Clever";
-    },
-
-    buildProducts() {
-        return "User Experience First";
-    },
-
-    improve() {
-        return "Learn → Build → Refactor → Repeat";
-    },
-
-    goal() {
-        return "Build software that creates real impact.";
-    }
-};
-```
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master TypeScript
-- ✅ Learn Next.js deeply
-- ✅ Build production-grade MERN applications
-- ✅ Solve 500+ DSA problems
-- ✅ Contribute to Open Source
-- ✅ Crack Software Engineering interviews
-
----
-
-# 📈 Current Focus
-
-```text
-███████████████████████░░ React
-
-█████████████████████░░░ TypeScript
-
-████████████████████░░░░ Node.js
-
-███████████████████░░░░░ MongoDB
-
-██████████████████░░░░░░ DSA
-
-█████████████████░░░░░░░ System Design
-```
-
----
-
-# 💬 Favorite Quote
-
-> "First, solve the problem. Then, write the code."
->
-> — John Johnson
-
-
-<!-- ========================================================= -->
-<!--               CONNECT • FOOTER • FINAL SECTION            -->
-<!-- ======================== PART 4 ========================== -->
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/payalsuryawanshi-55">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/payal-mern">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:payalsuryawanshi820@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="YOUR_PORTFOLIO_LINK">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
----
-
-# 💼 Open To
-
-✔ Full Stack Developer Roles
-
-✔ Frontend Developer Roles
-
-✔ React Developer Opportunities
-
-✔ Software Engineering Internships
-
-✔ Open Source Collaboration
-
-✔ Freelance Web Development
-
----
-
-# 📬 Contact
-
-📧 **Email**
-
-```text
-payalsuryawanshi820@gmail.com
-```
-
-📍 **Location**
-
-```text
-Bhopal, Madhya Pradesh, India
-```
-
-💻 **Current Role**
-
-```text
-Full Stack MERN Developer
-```
-
----
-
-# 🌱 Beyond Coding
-
-Outside of development, I enjoy continuously learning new technologies,
-exploring modern software architecture, improving problem-solving skills,
-and building projects that solve real-world problems.
-
-I believe that consistency, curiosity, and clean engineering practices are
-the foundation of becoming a better software developer.
-
----
-
-# ❤️ Development Principles
-
-```text
-✔ Write clean code
-
-✔ Build reusable components
-
-✔ Optimize performance
-
-✔ Think before coding
-
-✔ Never stop learning
-
-✔ Focus on user experience
-
-✔ Keep improving every day
-```
-
----
-
-# 📈 2026 Roadmap
-
-```text
-✅ Advanced React
-
-✅ TypeScript
-
-✅ Next.js
-
-✅ System Design
-
-✅ Open Source
-
-⬜ AWS
-
-⬜ Docker
-
-⬜ Kubernetes
-
-⬜ CI/CD
-
-⬜ Microservices
-```
-
----
-
-# ☕ Fun Fact
-
-```javascript
-while(alive){
-
-    learn();
-
-    build();
-
-    debug();
-
-    repeat();
-
-}
-```
-
----
-
-# 📊 Profile Overview
-
-```text
-👩 Name          : Payal Suryawanshi
-
-💼 Role          : Full Stack MERN Developer
-
-⚛️ Frontend      : React • TypeScript
-
-⚙️ Backend       : Node.js • Express
-
-🗄 Database      : MongoDB
-
-🧠 Interests     : Web Engineering • DSA • System Design
-
-🚀 Goal          : Software Engineer
-```
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
-
-</p>
-
----
-
-# ⭐ Support
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-It motivates me to continue building and sharing useful projects.
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=footer"/>
-
-</p>
-
-<h2 align="center">
-
-Thanks for visiting my profile ❤️
-
-</h2>
-
-<p align="center">
-
-<em>
-
-"Code is more than syntax—it's about solving problems, creating impact,
-and continuously growing as an engineer."
-
-</em>
-
-</p>
-
-<p align="center">
-
-⭐ Happy Coding ⭐
-
-</p>
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
