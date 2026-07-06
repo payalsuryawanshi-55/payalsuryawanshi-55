@@ -1,47 +1,72 @@
-<h1 align="center">✨ Hi, I'm Payal Suryawanshi ✨</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast</h3>
+<h1 align="center">✨ Payal Suryawanshi ✨</h1>
+<h3 align="center">Full Stack Developer crafting thoughtful digital experiences with the MERN Stack</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=780&lines=Building+Scalable+Modern+Web+Applications;Crafting+Clean+%26+Pixel-Perfect+UI%2FUX;MERN+Stack+%7C+DSA+%7C+Performance+Optimization;Passionate+about+Code+%26+Creative+Designs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Passionate+about+Clean+Code+%26+Great+Design;MERN+Stack+%7C+DSA+Enthusiast+%7C+Pixel-Perfect+UI;Turning+Ideas+into+Intuitive+Products" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="52%" />
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="54%" alt="Developer" />
 </p>
 
 ---
 
-### 👋 About Me
+### About Me
 
-A passionate **Full Stack Developer** who loves turning ideas into elegant, functional web experiences using the MERN stack.
+I’m a dedicated **Full Stack Developer** with a strong foundation in the MERN ecosystem. I enjoy solving real-world problems through clean architecture, beautiful interfaces, and efficient backend systems.
 
-- **📍 India** | **📧** [payalsuryawanshi820@gmail.com](mailto:payalsuryawanshi820@gmail.com)
-- 🏆 50 Days Badge Winner | Max Streak: 51 Days | 240+ Submissions
+- **📍 Based in India**
+- **📧** [payalsuryawanshi820@gmail.com](mailto:payalsuryawanshi820@gmail.com)
+- 50 Days Coding Badge Winner | Max Streak: 51 Days | 240+ Submissions
+
+**“Great code is not just about solving problems — it’s about creating solutions that inspire.”**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=6" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi" />
+</p>
+
 ---
 
-### 💼 Professional Journey
+### Professional Experience
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="padding: 25px; border-radius: 22px; background: linear-gradient(135deg, #2a1a4d, #1e1438);">
-        <h3>🏢 Webseeders Technology</h3>
-        <p><strong>Frontend Developer Intern</strong><br>Jan 2026 – Apr 2026</p>
-        <p>Built <strong>FitGym</strong> — modern fitness platform with React & Tailwind.</p>
+      <td width="50%" style="padding: 28px; border-radius: 24px; background: linear-gradient(135deg, #1f1b4b, #16213e); box-shadow: 0 4px 15px rgba(255, 107, 107, 0.1);">
+        <h3>🏢 Webseeders Technology Pvt. Ltd.</h3>
+        <h4>Frontend Developer Intern</h4>
+        <p><strong>Jan 2026 – Apr 2026</strong></p>
+        <details>
+          <summary>Key Contributions</summary>
+          <ul>
+            <li>Developed <b>FitGym Website</b> — modern fitness platform using React & Tailwind</li>
+            <li>Built responsive, reusable, and pixel-perfect UI components</li>
+            <li>Focused on performance optimization and cross-browser compatibility</li>
+          </ul>
+        </details>
       </td>
-      <td width="50%" style="padding: 25px; border-radius: 22px; background: linear-gradient(135deg, #2a1a4d, #1e1438);">
+      <td width="50%" style="padding: 28px; border-radius: 24px; background: linear-gradient(135deg, #1f1b4b, #16213e); box-shadow: 0 4px 15px rgba(255, 107, 107, 0.1);">
         <h3>🌐 TEN Entrepreneur Network</h3>
-        <p><strong>Full Stack Developer Intern</strong><br>Jan 2026 – Apr 2026</p>
-        <p>Developed <strong>BookShelf</strong> (MERN) and interactive games.</p>
+        <h4>Full Stack Developer Intern</h4>
+        <p><strong>Jan 2026 – Apr 2026</strong></p>
+        <details>
+          <summary>Key Contributions</summary>
+          <ul>
+            <li>Built complete <b>BookShelf Management System</b> using MERN Stack</li>
+            <li>Created engaging <b>Snake & Ladder Game</b> with React</li>
+            <li>Integrated REST APIs with smooth frontend-backend communication</li>
+          </ul>
+        </details>
       </td>
     </tr>
   </table>
@@ -49,36 +74,36 @@ A passionate **Full Stack Developer** who loves turning ideas into elegant, func
 
 ---
 
-### 🌟 Featured Projects
+### Featured Projects
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
+      <td width="50%" style="padding: 24px; border-radius: 20px; background: #161b22; border: 1px solid #FF6B6B33;">
         <h3>💪 FitGym</h3>
         <p><strong>React • Tailwind CSS</strong></p>
-        <p>Modern fitness platform with smooth animations and responsive design.</p>
-        <a href="https://github.com/payalsuryawanshi-55/fitgym-website">Explore →</a>
+        <p>Modern fitness platform featuring smooth animations and responsive design.</p>
+        <a href="https://github.com/payalsuryawanshi-55/fitgym-website">View Project →</a>
       </td>
-      <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
+      <td width="50%" style="padding: 24px; border-radius: 20px; background: #161b22; border: 1px solid #FF6B6B33;">
         <h3>📚 BookShelf</h3>
         <p><strong>MERN Stack</strong></p>
-        <p>Complete book management system with full CRUD functionality.</p>
-        <a href="#">Explore →</a>
+        <p>Full-featured book management system with complete CRUD operations.</p>
+        <a href="#">View Project →</a>
       </td>
     </tr>
     <tr>
-      <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
+      <td width="50%" style="padding: 24px; border-radius: 20px; background: #161b22; border: 1px solid #FF6B6B33;">
         <h3>🧮 PureCalc</h3>
         <p><strong>HTML • CSS • JavaScript</strong></p>
-        <p>Clean calculator with keyboard support and elegant interactions.</p>
-        <a href="https://github.com/payalsuryawanshi-55/calculator">Explore →</a>
+        <p>Minimalist calculator with keyboard support and delightful interactions.</p>
+        <a href="https://github.com/payalsuryawanshi-55/calculator">View Project →</a>
       </td>
-      <td width="50%" style="padding: 24px; border-radius: 20px; background: #1a132f; border-left: 5px solid #FF6B6B;">
+      <td width="50%" style="padding: 24px; border-radius: 20px; background: #161b22; border: 1px solid #FF6B6B33;">
         <h3>🎮 Snake & Ladder</h3>
         <p><strong>React • JavaScript</strong></p>
-        <p>Fun interactive board game with real-time gameplay.</p>
-        <a href="#">Explore →</a>
+        <p>Interactive board game with real-time dice mechanics and engaging UI.</p>
+        <a href="#">View Project →</a>
       </td>
     </tr>
   </table>
@@ -86,34 +111,34 @@ A passionate **Full Stack Developer** who loves turning ideas into elegant, func
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC&text_color=E2E8F0" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=C084FC" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C084FC&point=FF6B6B&area=true&hide_border=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=C084FC&point=FF6B6B&area=true" width="95%" />
 </p>
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🏅 <strong>50 Days Badge</strong></td>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">🔥 <strong>51 Day Streak</strong></td>
-      <td align="center" style="padding: 22px; background: #1a132f; border-radius: 18px;">📊 <strong>240+ Submissions</strong></td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1e1e2e, #16213e); border-radius: 16px;">🏅 <strong>50 Days Coding Badge</strong></td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1e1e2e, #16213e); border-radius: 16px;">🔥 <strong>51 Days Max Streak</strong></td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1e1e2e, #16213e); border-radius: 16px;">📊 <strong>240+ Submissions</strong></td>
     </tr>
   </table>
 </div>
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://github.com/payalsuryawanshi-55"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -127,8 +152,4 @@ A passionate **Full Stack Developer** who loves turning ideas into elegant, func
   <img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=FF6B6B&style=flat-square" />
 </p>
 
-<p align="center">
-  <i>"Code with purpose, design with heart."</i>
-</p>
-
-<p align="center"><strong>⚡ Open for SDE Roles, Internships & Collaborations ⚡</strong></p>
+<p align="center"><strong>Open for SDE Roles • Internships • Collaborations</strong></p>
