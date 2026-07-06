@@ -1,240 +1,48 @@
-<div align="center">
+✨ Payal Suryawanshi ✨
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | DSA Problem Solver</h3><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=800&lines=🌟+Building+Scalable+Web+Applications;💻+MERN+Stack+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB;🎯+SDE+Ready+%7C+Problem+Solver+%7C+Tech+Enthusiast;🔥+Passionate+about+Clean+Code+%26+Great+Design" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="50%" /> </p>
+
+💫 About Me
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p>
+🎯 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast
+📍 India
+📧 payalsuryawanshi820@gmail.com
+🏆 50 Days Badge Winner | 92 Active Days | Max Streak: 51 Days
+
+🔗 Portfolio • LinkedIn • Twitter • GitHub • LeetCode
+# My Developer Philosophy
+class Developer:
+    def __init__(self):
+        self.name = "Payal Suryawanshi"
+        self.role = "Full Stack Developer"
+        self.passion = "Building scalable web experiences"
+        self.mission = "Turning complex problems into elegant solutions"
+        self.motto = "Code with purpose, design with heart"
+        
+    def daily_routine(self):
+        return ["Write Clean Code", "Learn New Tech", "Build Projects", "Solve DSA Problems"]
+        🛠️ Tech Stack & Tools
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚡+TECH+STACK+%26+TOOLS+⚡" /> </p><p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=7" /> </p><p align="center"> <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens" /> <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose" /> <img src="https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/-Responsive%20Design-0F9D58?style=for-the-badge&logo=material-design" /> </p><div align="center"> <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/><b>HTML5</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/><b>CSS3</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/><b>JavaScript</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br/><b>React</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" style="filter: invert(1);"/><br/><b>Next.js</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/><br/><b>Tailwind</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/><br/><b>Node.js</b></td> </tr> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="filter: invert(1);"/><br/><b>Express</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br/><b>MongoDB</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br/><b>Git</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="filter: invert(1);"/><br/><b>GitHub</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/><br/><b>Postman</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br/><b>VS Code</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="50" height="50"/><br/><b>Mongoose</b></td> </tr> </table> </div>
+
+💼 Professional Journey
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=800&duration=1000&pause=300&color=FF6B6B&center=true&vCenter=true&width=700&lines=💼+PROFESSIONAL+JOURNEY+💼;🚀+2+INTERNSHIPS+COMPLETED+🚀" /> </p><div align="center"> <table> <tr> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🏢 Webseeders Technology Pvt. Ltd.</h3> <h4>🔥 Frontend Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>🚀 Developed <b>FitGym Website</b> using React.js & Tailwind CSS</li> <li>🎨 Built responsive, reusable UI components with pixel-perfect precision</li> <li>⚡ Optimized frontend performance & cross-browser compatibility</li> <li>🤝 Collaborated using Git & GitHub in agile team environment</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🌐 TEN Entrepreneur Network</h3> <h4>💻 Full Stack Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>📚 Built <b>BookShelf Management System</b> with full CRUD using MERN Stack</li> <li>🎲 Created interactive <b>Snake & Ladder Game</b> using React.js</li> <li>🔗 Integrated REST APIs with seamless frontend-backend communication</li> <li>🧩 Implemented responsive UI & optimized user experience</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> </tr> </table> </div>
+
+🌟 Featured Projects
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🌟+FEATURED+PROJECTS+🌟" /> </p><div align="center"> <table> <tr> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>💪 FitGym Website</h3> <p><b>Tech:</b> React.js, Tailwind CSS</p> <p>Modern gym/fitness platform with responsive design, smooth animations, and interactive UI. Built as a team project at Webseeders Technology.</p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> <br/><br/> <a href="https://github.com/payalsuryawanshi-55/fitgym-website">🔗 View Repository</a> </td> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>📚 BookShelf Management</h3> <p><b>Tech:</b> MERN Stack (MongoDB, Express, React, Node.js)</p> <p>Full CRUD application for managing book collections. Features RESTful API architecture with responsive UI and database integration.</p> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <br/><br/> <a href="#">🔗 View Repository</a> </td> </tr> <tr> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>🧮 PureCalc Calculator</h3> <p><b>Tech:</b> HTML, CSS, JavaScript</p> <p>Minimalist calculator with clean UI, smooth animations, keyboard support, and error handling.</p> <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br/><br/> <a href="https://github.com/payalsuryawanshi-55/calculator">🔗 View Repository</a> </td> <td width="50%" style="padding: 15px; border-radius: 10px; background: #1a1a2e;"> <h3>🎮 Snake & Ladder Game</h3> <p><b>Tech:</b> React.js, JavaScript</p> <p>Interactive board game built with React.js. Features dice rolling, player movement, and engaging UI.</p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <br/><br/> <a href="#">🔗 View Repository</a> </td> </tr> </table> </div>
+
+📊 GitHub Analytics
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=C084FC&center=true&vCenter=true&width=600&lines=📊+GITHUB+ANALYTICS+📊" /> </p><div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&theme=radical&hide_border=true&bg_color=0D111A&title_color=FF6B6B&icon_color=C084FC&text_color=E2E8F0&count_private=true" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&theme=radical&hide_border=true&background=0D111A&stroke=FF6B6B&ring=FF6B6B&fire=FF6B6B&currStreakLabel=E2E8F0" width="48%" /> </div><div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&theme=radical&hide_border=true&bg_color=0D111A&title_color=FF6B6B&text_color=E2E8F0" width="45%" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&theme=react-dark&bg_color=0D111A&color=FF6B6B&line=C084FC&point=FF6B6B&area=true&hide_border=true" width="45%" /> </div>
+
+🏆 Coding Achievements
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🏆+CODING+ACHIEVEMENTS+🏆" /> </p><div align="center"> <table> <tr> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/medal.png"/> <h3>🏅 50 Days Badge</h3> <p>Completed 50 Days of Coding Challenge</p> </td> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/calendar.png"/> <h3>📅 92 Active Days</h3> <p>Consistent coding practice</p> </td> </tr> <tr> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/fire.png"/> <h3>🔥 51 Days Max Streak</h3> <p>Longest continuous coding streak</p> </td> <td align="center" style="padding: 20px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <img src="https://img.icons8.com/color/96/000000/activity.png"/> <h3>📊 240+ Submissions</h3> <p>in the past one year</p> </td> </tr> </table> </div>
+
+
+🎯 Current Focus
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=🎯+Building+Real-World+MERN+Projects;📚+Exploring+Next.js+%26+TypeScript;🎨+Mastering+Advanced+Animations;💡+Solving+DSA+Problems;🤝+Open+for+Collaborations" /> </p>
+
+📌 Quick Insights
+<div align="center"> <table> <tr> <td align="center" style="padding: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <h3>💻 Daily Focus</h3> <p>MERN Stack Projects<br/>DSA Practice<br/>Open Source Contribution</p> </td> <td align="center" style="padding: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <h3>🎯 Career Goal</h3> <p>SDE at Product-Based Company<br/>Full Stack Development<br/>Building Scalable Products</p> </td> <td align="center" style="padding: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e); border-radius: 15px;"> <h3>📚 Learning Path</h3> <p>System Design<br/>Cloud Deployment<br/>Advanced JavaScript</p> </td> </tr> </table> </div>
+
+🤝 Let's Connect
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&weight=700&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=600&lines=🔗+LET'S+CONNECT+🔗" /> </p><p align="center"> <a href="https://your-portfolio.com"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /> </a> <a href="mailto:payalsuryawanshi820@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://linkedin.com/in/payalsuryawanshi-55"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://twitter.com/payalsuryawanshi"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /> </a> <a href="https://github.com/payalsuryawanshi-55"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://leetcode.com/payalsuryawanshi"> <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /> </a> </p><div align="center"> <img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=FF6B6B&style=flat-square" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/payalsuryawanshi-55?label=Followers&style=social" /> <img src="https://img.shields.io/github/stars/payalsuryawanshi-55?label=Stars&style=social" /> </div>
+<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting!+✨;🌟+Let's+build+something+amazing!+🌟;💻+Keep+coding+with+passion!+💻" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <i>"Great code is not just about solving problems — it's about creating solutions that inspire."</i> </p><p align="center"> ⚡ <b>Open for SDE Roles | Internships | Collaborations</b> ⚡ </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=PAYAL%20SURYAWANSHI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20%7C%20MERN%20%7C%20Frontend-Focused%20Developer&descAlignY=58&descSize=16" width="100%"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+clean%2C+scalable+web+applications;React.js+%C2%B7+Node.js+%C2%B7+MongoDB+%C2%B7+Express.js;Solving+DSA+problems%2C+one+day+at+a+time;4th+Year+CSE+Student+%40+Sage+University+Bhopal)](https://git.io/typing-svg)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/payal-suryawanshi-a98776302"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://leetcode.com/u/Payal-suryawanshi/"><img src="https://img.shields.io/badge/LeetCode-1a1a2e?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>&nbsp;
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/payalsuryawanshi-55"><img src="https://img.shields.io/badge/GitHub-1a1a2e?style=flat-square&logo=github&logoColor=white"/></a>
-
-</div>
-
-<br/>
-
-## `01` &nbsp;About
-
-I build responsive, user-friendly web applications with an emphasis on clean UI and scalable architecture. My work spans the MERN stack — from crafting reusable React components to designing REST APIs that connect smoothly with the frontend. Alongside development, I spend consistent time on Data Structures & Algorithms, treating every problem as practice for the engineering role I'm working toward.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Currently**
-Frontend-focused Full Stack Developer
-4th Year B.Tech CSE · Sage University, Bhopal
-Based in India
-
-</td>
-<td width="50%" valign="top">
-
-**Working toward**
-An SDE role at a product-based company
-Deeper System Design fundamentals
-Interview-ready DSA proficiency
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `02` &nbsp;Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode" />
-
-</div>
-
-<details>
-<summary><b>Breakdown by category</b></summary>
-<br/>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | HTML5, CSS3, JavaScript (ES6+), TypeScript |
-| **Frontend** | React.js, Tailwind CSS, Chakra UI v3 |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB |
-| **Tooling** | Git, GitHub, VS Code, Postman |
-
-</details>
-
-<br/>
-
-**On my radar right now:** Advanced React patterns · System Design fundamentals · Data Structures & Algorithms · Backend architecture · End-to-end Full Stack delivery
-
-<br/>
-
-## `03` &nbsp;Experience
-
-<table>
-<tr>
-<td width="100%">
-
-**Frontend Developer Intern** — Webseeders Technology Pvt. Ltd.
-
-Contributed to **FitGym**, a live team project, building responsive interfaces in React.js and Tailwind CSS. Worked within a shared Git/GitHub workflow, with a focus on reusable components, performance, and cross-device consistency.
-
-`React.js` `Tailwind CSS` `Git` `GitHub`
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-**Full Stack Developer Intern** — TEN Entrepreneur Network
-
-Built two independent MERN applications end-to-end: a **BookShelf Management System** and a **Snake & Ladder Game**. Implemented CRUD operations, REST APIs, frontend-backend integration, basic authentication, and responsive layouts.
-
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `04` &nbsp;Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**FitGym** · *Team Project*
-Fitness/gym platform with a responsive, component-driven frontend built during my internship at Webseeders.
-`React.js` `Tailwind CSS`
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**BookShelf Management System**
-Full MERN application for cataloguing and managing books with complete CRUD functionality.
-`MongoDB` `Express.js` `React.js` `Node.js`
-[Repository](#) · [Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Snake & Ladder Game**
-Interactive browser-based recreation of the classic game with game-state logic handled in JavaScript.
-`JavaScript` `HTML` `CSS`
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Sidcup Family Golf Website**
-Informational site covering course details, services, pricing, and a booking flow.
-`HTML` `CSS` `JavaScript`
-[Repository](#) · [Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Modern Calculator**
-Minimal calculator with a clean interface and precise operation handling.
-`JavaScript` `HTML` `CSS`
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Tic Tac Toe**
-Classic two-player game with win-detection logic and a responsive board layout.
-`JavaScript` `HTML` `CSS`
-[Repository](#) · [Live Demo](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Gemini AI Clone**
-Conversational UI inspired by Gemini, built to explore chat-interface patterns and API-driven responses.
-`React.js` `JavaScript` `API Integration`
-[Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
-
-**Portfolio Website**
-Personal portfolio showcasing projects, skills, and experience with a component-based architecture.
-`React.js` `Tailwind CSS`
-[Repository](#) · [Live Demo](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## `05` &nbsp;Problem Solving
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Payal-suryawanshi?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="80%"/>
-
-</div>
-
-165+ problems solved on LeetCode across arrays, strings, recursion, and data structure fundamentals — an ongoing habit rather than a one-time sprint, built alongside coursework and project work.
-
-<br/>
-
-## `06` &nbsp;GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=payalsuryawanshi-55&show_icons=true&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=payalsuryawanshi-55&hide_border=true&theme=highcontrast&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=A78BFA&currStreakLabel=C9D1D9" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalsuryawanshi-55&layout=compact&hide_border=true&theme=chartreuse-dark&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="40%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=payalsuryawanshi-55&hide_border=true&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&area=true" width="90%"/>
-
-</div>
-
-<br/>
-
-## `07` &nbsp;2026 Focus
-
-- [ ] Land an SDE internship or full-time role at a product-based company
-- [ ] Build one production-grade full stack project with authentication, testing, and deployment
-- [ ] Strengthen System Design fundamentals — scalability, databases, caching
-- [ ] Cross 300+ solved problems on LeetCode with a focus on medium/hard patterns
-- [ ] Contribute to at least one open-source repository
-
-<br/>
-
-## `08` &nbsp;Let's Connect
-
-<div align="center">
-
-Open to internship opportunities, full-time SDE roles, and collaborative projects.
-
-<a href="mailto:payalsuryawanshi820@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/payal-suryawanshi-a98776302"><img src="https://img.shields.io/badge/Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-**Let's build something amazing together.**
-
-<img src="https://komarev.com/ghpvc/?username=payalsuryawanshi-55&label=Profile%20Views&color=6D28D9&style=flat-square"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer" width="100%"/>
