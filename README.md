@@ -1,13 +1,35 @@
-✨ Payal Suryawanshi ✨
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast</h3><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=900&lines=🌟+Building+Scalable+Web+Applications;💻+MERN+Stack+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB;🎯+SDE+Ready+%7C+Problem+Solver+%7C+Tech+Enthusiast;🔥+Passionate+about+Clean+Code+%26+Great+Design;⚡+50+Days+Badge+Winner+%7C+240%2B+Submissions" /> </p><p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="60%" /> </p>
-💫 About Me
-<p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p>
-🎯 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast
-📍 India
-📧 payalsuryawanshi820@gmail.com
-🏆 50 Days Badge Winner | 92 Active Days | Max Streak: 51 Days
+<h1 align="center">✨ Payal Suryawanshi ✨</h1>
 
-🔗 Portfolio • LinkedIn • Twitter • GitHub • LeetCode
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist | DSA Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&width=900&lines=🌟+Building+Scalable+Web+Applications;💻+MERN+Stack+%7C+React+%7C+Node.js+%7C+Express+%7C+MongoDB;🎯+SDE+Ready+%7C+Problem+Solver+%7C+Tech+Enthusiast;🔥+Passionate+about+Clean+Code+%26+Great+Design;⚡+50+Days+Badge+Winner+%7C+240%2B+Submissions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="60%" />
+</p>
+
+---
+
+## 💫 About Me
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+🎯 **Full Stack Developer** | MERN Stack Specialist | DSA Enthusiast  
+📍 **India**  
+📧 **payalsuryawanshi820@gmail.com**  
+🏆 **50 Days Badge Winner** | **92 Active Days** | **Max Streak: 51 Days**
+
+🔗 **[Portfolio](https://github.com/payalsuryawanshi-55)** • **[LinkedIn](https://linkedin.com/in/payalsuryawanshi-55)** • **[Twitter](https://twitter.com/payalsuryawanshi)** • **[GitHub](https://github.com/payalsuryawanshi-55)** • **[LeetCode](https://leetcode.com/payalsuryawanshi)**
+
+```python
 # My Developer Philosophy
 class Developer:
     def __init__(self):
@@ -20,7 +42,8 @@ class Developer:
     def daily_routine(self):
         return ["Write Clean Code", "Learn New Tech", "Build Projects", "Solve DSA Problems"]
 
-        🛠️ Tech Stack & Tools
+
+🛠️ Tech Stack & Tools
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=700&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚡+TECH+STACK+%26+TOOLS+⚡" /> </p><p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=6" /> </p><p align="center"> <img src="https://img.shields.io/badge/-JWT-black?style=for-the-badge&logo=jsonwebtokens" /> <img src="https://img.shields.io/badge/-Mongoose-880000?style=for-the-badge&logo=mongoose" /> <img src="https://img.shields.io/badge/-REST%20API-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/-Responsive%20Design-0F9D58?style=for-the-badge&logo=material-design" /> </p><div align="center"> <table> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/><br/><b>HTML5</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/><br/><b>CSS3</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/><br/><b>JavaScript</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/><br/><b>React</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50"/><br/><b>Tailwind</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/><br/><b>Node.js</b></td> </tr> <tr> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" style="filter: invert(1);"/><br/><b>Express</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/><br/><b>MongoDB</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/><br/><b>Git</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="filter: invert(1);"/><br/><b>GitHub</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50"/><br/><b>Postman</b></td> <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/><br/><b>VS Code</b></td> </tr> </table> </div>
 💼 Professional Journey
 <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p><p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&weight=800&duration=1000&pause=300&color=FF6B6B&center=true&vCenter=true&width=700&lines=💼+PROFESSIONAL+JOURNEY+💼;🚀+2+INTERNSHIPS+COMPLETED+🚀" /> </p><div align="center"> <table> <tr> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🏢 Webseeders Technology Pvt. Ltd.</h3> <h4>🔥 Frontend Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>🚀 Developed <b>FitGym Website</b> using React.js & Tailwind CSS</li> <li>🎨 Built responsive, reusable UI components with pixel-perfect precision</li> <li>⚡ Optimized frontend performance & cross-browser compatibility</li> <li>🤝 Collaborated using Git & GitHub in agile team environment</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> <td align="center" width="50%" style="padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #1a1a2e, #16213e);"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" height="100" style="border-radius: 50%;"/> <h3>🌐 TEN Entrepreneur Network</h3> <h4>💻 Full Stack Developer Intern</h4> <p>📅 Jan 2026 – Apr 2026</p> <details> <summary><b>✨ Key Contributions ✨</b></summary> <ul align="left"> <li>📚 Built <b>BookShelf Management System</b> with full CRUD using MERN Stack</li> <li>🎲 Created interactive <b>Snake & Ladder Game</b> using React.js</li> <li>🔗 Integrated REST APIs with seamless frontend-backend communication</li> <li>🧩 Implemented responsive UI & optimized user experience</li> </ul> </details> <br/> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=200&color=FFD700&width=150&lines=✅+COMPLETED" /> </td> </tr> </table> </div>
